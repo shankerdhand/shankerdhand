@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate on AI/ML
 - 🤔 I’m looking for help with full stack
-- 💬 Ask me about ...
 - 📫 How to reach me: er.shankerdhand@gmail.com
 - 😄 Pronouns: He/HIM
 - ⚡ Fun fact: I love cooking
 
 I'm pro 😎 at:
+React.js React-Native XCODE-IOS 
 Flutter Firebase ANDROID KOTLIN JAVA Git GitHub Python HTML5 CSS3 Sass JavaScript
 
 
